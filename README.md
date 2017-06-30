@@ -1,3 +1,3 @@
-# TaiChi Robot
+# ErGo
 Intelligent robot based on TensorFlow
 
