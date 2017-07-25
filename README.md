@@ -12,6 +12,7 @@ ErGo comes with the following choices:
 
 * NLP
 * RNN
+* CNN
 * Seq2seq
 * QA
 
